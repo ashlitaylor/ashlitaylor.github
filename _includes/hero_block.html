@@ -1,0 +1,11 @@
+<section id="{{ include_dict.section.section_id }}" class="hero">
+  {% if include_dict.section.title %}
+  <h2 class="hero-title">Changing hero title in hero_block</h2>
+  {% else %}
+  <h2 class="hero-title">Hi there, I'm Ashli.</h2>
+  {% endif %}
+  <div class="hero-text">
+    {{ include_dict.section.content | markdownify }}
+  </div>
+</section>
+<!-- .hero -->
