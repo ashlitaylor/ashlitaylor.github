@@ -1,0 +1,16 @@
+{
+  "links": [
+    {
+      "type": "github",
+      "title": "GitHub",
+      "icon": "fa-github",
+      "url": "https://github.com/ashlitaylor?tab=repositories"
+    },
+    {
+      "type": "linkedin",
+      "title": "LinkedIn",
+      "icon": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/ashli-taylor/"
+    }
+  ]
+}
