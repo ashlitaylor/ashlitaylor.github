@@ -1,0 +1,17 @@
+---
+title: Resume
+subtitle: >-
+  My professional and educational journey until now
+menus:
+  main:
+    weight: 1
+    title: Resume
+template: page
+---
+
+<div class="embed-responsive embed-responsive-4by3" id="resume-frame">
+<iframe class= "embed-responsive-item" scrolling="no" src="https://drive.google.com/file/d/0B6iWmt6x1KamejBlV1FuclRERTA/preview"></iframe>
+</div>
+<div id="resume-download">
+<a href="https://drive.google.com/uc?export=download&id=0B6iWmt6x1KamejBlV1FuclRERTA" class="btn btn-primary">Download</a>
+</div>
